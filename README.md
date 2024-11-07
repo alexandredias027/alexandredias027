@@ -3,7 +3,7 @@
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandredias027&show_icons=true&theme=dracula)
 
-![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredias027&size_weight=0.5&count_weight=0.5)
+![Most used](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredias027&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 ## Tecnologiaas que uso no meu dia a dia
 
