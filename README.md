@@ -2,7 +2,7 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alexandredias2708/)
 
 ![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandredias027&show_icons=true&theme=dracula)
-![Most uset Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredias027&size_weight=0.5&count_weight=1)
+![Most used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandredias027&layout=compact&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologiaas que uso no meu dia a dia
 
